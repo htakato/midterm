@@ -12,9 +12,6 @@ var factorial = function(a){
 				}
 				n = n - 1;
 			}
-			else if(Number.isFinite(a)){
-
-			}
 		}
 	}
 	else{
